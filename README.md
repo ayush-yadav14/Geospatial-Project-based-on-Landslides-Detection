@@ -1,0 +1,1 @@
+# Geospatial-Project-based-on-Landslides-Detection
